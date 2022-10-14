@@ -1,7 +1,11 @@
 import React from "react";
 
 let Index = () => {
-  return <h1 style={{ color: "blue" }}>Hello Dentsu Creative</h1>;
+  return (
+    <body style={{ backgroundColor: "green" }}>
+      <h1 style={{ color: "blue" }}>Hello Dentsu Creative</h1>
+    </body>
+  );
 };
 
 export default Index;
