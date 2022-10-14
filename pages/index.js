@@ -1,7 +1,7 @@
 import React from "react";
 
 let Index = () => {
-  return <h1>Hello Dentsu</h1>;
+  return <h1>Hello Dentsu Creative</h1>;
 };
 
 export default Index;
